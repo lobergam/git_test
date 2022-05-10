@@ -1,1 +1,2 @@
-Hello world!
+Hello world! 
+Updating this so I test out commit message config.
